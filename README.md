@@ -12,4 +12,5 @@ c.UploadUserVideo, change the path in line 91, add your username<br />
 2. these files are .jsp files in the web folder<br />
 a.Uploadvideo, line 93 change path<br />
 
-
+#UPDATE:
+Works with MYySQL Server 8.0.
